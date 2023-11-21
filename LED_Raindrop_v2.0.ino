@@ -10,7 +10,7 @@
 // This tiny Raindrop 8 channel LED chaser was inspired by:
 // Hasitha Jayasundara on http://www.youtube.com/c/HAZITECH?sub_confirmation=1
 // and https://www.instructables.com/ATTiny-Port-Manipulation/
-// the different channels cannot all be on on the same time because they use the same ports in pairs
+// the different channels cannot all be on at the same time because they use the same ports in pairs
 // therefore the LEDs are multiplexed, that is, they are switched on for a very short time
 // for the human eye it looks like if the where on simultaiously.
 
