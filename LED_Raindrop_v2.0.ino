@@ -27,7 +27,7 @@ int pattern = 127; // 7 bits are set
 // MAIN LOOP ----------------------------- START
 void loop()
 {
-  // in this for loops, the 7 bits (representing the LEDs) are shifted from left to right
+  // in this for-loop, the 7 bits (representing the LEDs) are shifted from left to right
   // this gives the impression of a "raindrop" falling
   for (int i = 0; i <= 15; i++)
   {
