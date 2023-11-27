@@ -7,7 +7,7 @@
 //              GND  4|    |5  PB0 (0) Common Rail
 //                    +----+
 //
-// @Internal 1 MHz and 3 to 5V VCC
+// @Internal 1 MHz and 3 to 5V VCC - can be powered by CR2032 battery or USB power supply
 //
 // Author: Roger Rabbit, November 2023
 // This tiny raindrop 8-channel LED chaser was inspired by:
