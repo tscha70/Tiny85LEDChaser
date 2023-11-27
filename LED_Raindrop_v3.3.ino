@@ -7,7 +7,7 @@
 //              GND  4|    |5  PB0 (0) Common Rail
 //                    +----+
 //
-// @Internal 1 MHz and 5V VCC
+// @Internal 1 MHz and 3 to 5V VCC
 //
 // Author: Roger Rabbit, November 2023
 // This tiny raindrop 8-channel LED chaser was inspired by:
